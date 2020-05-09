@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+/* body{
+  padding: 1em;
+  background: white;
+  color: #777;
+  text-align: center;
+  font-family: "Gill sans", sans-serif;
+  width: 80%;
+  margin: 0 auto;
+} */
+
+
+/*
+  Color del Loading
+*/
+svg path,
+svg rect{
+  fill: black;
+}

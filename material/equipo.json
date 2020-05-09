@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Intenta hacer pequeños logros todos los días. Si lo haces así,  Imagínate lo que lograrás en un mes... Un año... Una vida...",
+    "nombre" : "Fernando Herrera",
+    "subtitulo" : "Instructor",
+    "twitter" : "@fernando_her85",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-23ef1.appspot.com/o/team-3.jpg?alt=media&token=adacbe84-e221-4226-b1de-b81a1e29a2d5"
+  }, {
+    "frase" : "Cuando la inspiración no me encuentra, hago medio camino para encontrarla.",
+    "nombre" : "Melissa Pineda",
+    "subtitulo" : "Master",
+    "twitter" : "@Melissa",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-23ef1.appspot.com/o/team-2.jpg?alt=media&token=d71277af-b5ff-4ecb-95fb-a86053882cf6"
+  }, {
+    "frase" : "No hay disposición de ánimo a la que no pueda el hombre aplicar la medicina oportuna con sólo alcanzar de sus estanterías un libro.",
+    "nombre" : "Hernando Vallejo",
+    "subtitulo" : "Licenciado",
+    "twitter" : "@nandovallejo",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-23ef1.appspot.com/o/team-1.jpg?alt=media&token=dd248717-0b08-4663-a571-5dd9ff29041a"
+  } ]
+}

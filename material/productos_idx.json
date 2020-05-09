@@ -1,0 +1,92 @@
+[
+    {
+      "cod":"prod-1",
+      "url": "project-1.jpg",
+      "titulo":"Diferentes papeles",
+      "categoria":"papeleria"
+    },
+    {
+      "cod":"prod-2",
+      "url":"project-2",
+      "titulo":"iPad Cover",
+      "categoria":"accesorios"
+    },
+    {
+      "cod":"prod-3",
+      "url":"project-3",
+      "titulo":"Libro con muchas letras",
+      "categoria":"libros"
+    },
+    {
+      "cod":"prod-4",
+      "url":"project-4",
+      "titulo":"Café caliente",
+      "categoria":"comida"
+    },
+    {
+      "cod":"prod-5",
+      "url":"project-5",
+      "titulo":"Tarjetas de Presentación",
+      "categoria":"papeleria"
+    },
+    {
+      "cod":"prod-6",
+      "url":"project-6",
+      "titulo":"Camisetas con diseños",
+      "categoria":"ropa"
+    },
+    {
+      "cod":"prod-7",
+      "url":"project-7",
+      "titulo":"Lapiceros",
+      "categoria":"accesorios"
+    },
+    {
+      "cod":"prod-8",
+      "url":"project-8",
+      "titulo":"Pedazos de madera",
+      "categoria":"madera"
+    },
+    {
+      "cod":"prod-9",
+      "url":"project-9",
+      "titulo":"Bolsas",
+      "categoria":"accesorios"
+    },
+    {
+      "cod":"prod-10",
+      "url":"project-10",
+      "titulo":"Hojas con manchas",
+      "categoria":"libros"
+    },
+    {
+      "cod":"prod-11",
+      "url":"project-11",
+      "titulo":"Cajas para cosas",
+      "categoria":"cajas"
+    },
+    {
+      "cod":"prod-12",
+      "url":"project-12",
+      "titulo":"Tarjetas de presentación Blancas y Negras",
+      "categoria":"papeleria"
+    },
+    {
+      "cod":"prod-13",
+      "url":"project-13",
+      "titulo":"Diseño de Apps",
+      "categoria":"tecnologia"
+    },
+    {
+      "cod":"prod-14",
+      "url":"project-14",
+      "titulo":"Papeles sucios",
+      "categoria":"papeleria"
+    },
+    {
+      "cod":"prod-15",
+      "url":"project-15",
+      "titulo":"Camisetas usadas",
+      "categoria":"ropa"
+    }
+]
